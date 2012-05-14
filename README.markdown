@@ -1,10 +1,11 @@
+Selenium Grid 1 End of Lifed
+============================
 
-  -------
+Please note that Selenium Grid 1 is no longer an active project.  This repository only exists as a historical artifact.  All new work has been going into Selenium Grid 2, which has been integrated directly with the Selenium project and source tree.  Please note we have taken every reasonable measure to ensure that Selenium Grid 2 is backwards compatible with Selenium Grid 1, so there's virtually no reason at all to use Selenium Grid 1.
 
-  Note: Selenium Grid changed maintainers.  If you previously watched or forked ph7's repository, please note that it is no longer maintained
-  and nirvdrum's fork is where all active work will take place.
+To learn more, please see the [Selenium Grid 2 Documentation](http://code.google.com/p/selenium/wiki/Grid2)
 
-  -------
+////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Thank you for using Selenium Grid, an open-source tool to
 **transparently distribute your Selenium tests on multiple machines** so
